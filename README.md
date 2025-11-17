@@ -10,7 +10,7 @@ t.color("blue")
 t.pensize(3)
 
 for _ in range(3):
-    t.forward(100) #  
-    t.left(120)     # 
+    t.forward(100)  
+    t.left(120)     
 
 turtle.done()
