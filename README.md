@@ -1,5 +1,4 @@
-# Sfjghnk
-Bfnbj
+
 import turtle
 
 # تنظیمات اولیه
