@@ -1,4 +1,4 @@
-py.
+
 import turtle
 
 # تنظیمات اولیه
